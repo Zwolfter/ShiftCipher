@@ -1,9 +1,11 @@
-# This project contains two programs to fulfill the coding challenge from LightFeather.io
+# This project contains two programs for the coding challenge from LightFeather.io
 
 ShiftCipher
+
 Encode and Decode Strings using a Shift Cipher AKA Ceasar Shift.
 
 RegistrationForm
+
 Simple Registration form and validation
 
 Both programs use node.js and were developed using node 12.0.0
